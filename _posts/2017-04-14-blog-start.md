@@ -1,15 +1,27 @@
 ---
-layout: post
 title: 关于blog
 excerpt: "blog的开始"
 modified: 2017/04/15 12:49:33 
 tags: [blog]
-comments: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 image:
   feature: pixabay/lake.jpg
   credit: Pixabay
   creditlink: https://pixabay.com/zh/%E6%B0%B4-%E8%93%9D%E8%89%B2-%E8%A1%A8%E9%9D%A2-%E6%B5%B7-%E6%B5%B7%E6%B4%8B-%E6%B6%B2%E4%BD%93-%E5%A4%A9%E7%A9%BA-%E5%9C%B0%E5%B9%B3%E7%BA%BF-%E7%BB%BF%E6%9D%BE%E7%9F%B3-%E7%BA%B9%E7%90%86-768745/
 ---
+
+
 题记-关于blog
 以前上大学的时候还兴致勃勃的写着blog，那时候是在hi.baidu.com，上面记录着我的点点滴滴以及一些心得，工作之后偶尔更新了几篇，因为工作忙碌，平时应酬也多，所以渐渐的放下了blog的更新。一个偶然的契机，时隔多年后再次想起了之前自己所写的blog，登录上去之后发现整个blog已经关闭了，变成了一个封闭的文章系统。
 16年的双十一，我物色很久的ps4 slim版本发售了，我第一时间订购了一台，在几个月之后我买了已经发行了两年之久由宫崎英高担任制作人的血源诅咒，在历劫各种磨练之后将正片通关了，这里也安利一下这个游戏，可以说是非常磨练耐心和意志力。期间我在网上查了查关于这个游戏的引申内涵，有很多相关的解说，剧情解析，介绍等等，更甚的有人将其与克苏鲁神话的联系。无意间我在github上看到了一篇文章，里面讲述了关于游戏血源和血源对他造成的改变进行了简单的描述，有兴趣的朋友可以看看，我还是比较认同里面关于不论如何还是需要多尝试的价值。继读完这篇文章之后我又突然想起我之前所写的blog，但是一只没有付出行动，特别是读到文章里所述的关于儿时与父亲一同去钓鱼的场景，让我想起了我大学期间写blog记录我所做过的想过的一些事情，这也算是一把小小的火焰，就像小罗伯特唐尼在热带惊雷里面所说的：演员和搬砖工其实没什么区别，唯一不同的是演员们点燃了人们的内心之火。在这之后我也慢慢的萌生了继写blog的念头。
